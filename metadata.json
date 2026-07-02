@@ -1,0 +1,6 @@
+{
+  "name": "RF Explorer AI",
+  "description": "Advanced Qualcomm Platform Hardware & FM Radio Capability Scanner for Samsung Galaxy Tab A9+ 5G",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
